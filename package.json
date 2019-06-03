@@ -1,0 +1,23 @@
+{
+  "name": "event-driven-node",
+  "version": "1.0.0",
+  "description": "Event-Driven Programming with NodeJS Net and Events. Go to the profile of Danstan Onyango Danstan Onyango Oct 8, 2018",
+  "main": "http-server-with-tcpclient.js",
+  "scripts": {
+    "start": "node node-tcp-server& node http-server-with-tcpclient",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gonghaima/event-driven-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gonghaima/event-driven-node/issues"
+  },
+  "homepage": "https://github.com/gonghaima/event-driven-node#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
